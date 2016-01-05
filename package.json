@@ -1,7 +1,7 @@
 {
   "name": "react-es6-gulp-example",
   "version": "1.0.0",
-  "description": "Example show how to setup gulp task to transpose React and ES6.",
+  "description": "This example shows how to setup gulp task to transpose React and ES6.",
   "main": "app.js",
   "dependencies": {
     "gulp": "^3.9.0",
